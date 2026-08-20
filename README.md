@@ -1,11 +1,11 @@
 # 💫 About Me:
 ### Hi there, I'm Kunal 👋
 
-- 🔭 I'm currently working on [MockMentor](https://github.com/KunalPoonia/mockmentor) — an AI mock interviewer that grades answers against real course material using RAG, and adapts its follow-up questions based on what you got right or missed
+- 🔭 I'm currently working on [MockMentor](https://github.com/drexvane/mockmentor) — an AI mock interviewer that grades answers against real course material using RAG, and adapts its follow-up questions based on what you got right or missed
 - 🌱 I'm currently learning FastAPI, SQLAlchemy, PostgreSQL, Machine Learning workflows
 - 👯 I'm looking to collaborate on open-source projects in AI, Data Analytics, or Backend APIs
 - 🤝 I'm looking for help with system design, scalable backend architecture, and real-world ML deployment
-- 👨‍💻 All of my projects are available at https://github.com/KunalPoonia
+- 👨‍💻 All of my projects are available at https://github.com/drexvane
 - 💬 Ask me about Python, Data Analysis, REST APIs, SQL, Plotly Dash, RAG pipelines
 - 📫 How to reach me: kunal262005@gmail.com
 - ⚡ Fun fact: I enjoy turning raw data into meaningful insights
