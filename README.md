@@ -1,14 +1,18 @@
 # 💫 About Me:
+
 ### Hi there, I'm Kunal 👋
 
-- 🔭 I'm currently working on [MockMentor](https://github.com/drexvane/mockmentor) — an AI mock interviewer that grades answers against real course material using RAG, and adapts its follow-up questions based on what you got right or missed
-- 🌱 I'm currently learning FastAPI, SQLAlchemy, PostgreSQL, Machine Learning workflows
-- 👯 I'm looking to collaborate on open-source projects in AI, Data Analytics, or Backend APIs
-- 🤝 I'm looking for help with system design, scalable backend architecture, and real-world ML deployment
-- 👨‍💻 All of my projects are available at https://github.com/drexvane
-- 💬 Ask me about Python, Data Analysis, REST APIs, SQL, Plotly Dash, RAG pipelines
-- 📫 How to reach me: kunal262005@gmail.com
-- ⚡ Fun fact: I enjoy turning raw data into meaningful insights
+* 🔭 I'm currently building **Vigil** — a real-time ad-tech fraud detection platform using Kafka, Apache Spark, PostgreSQL, Delta Lake, and MLflow
+* 🤖 I've built **MockMentor**, a fully local RAG-based AI mock interviewer that evaluates answers against real course material and generates adaptive follow-up questions
+* 🧠 I'm interested in **AI/ML, Data Engineering, Backend Development, and Real-Time Systems**
+* 🌱 I'm currently exploring **real-time streaming, scalable backend architecture, ML deployment, and system design**
+* 👯 I'm looking to collaborate on **open-source projects in AI, Machine Learning, Data Engineering, or Backend Development**
+* 🤝 I'm looking to learn more about **distributed systems, scalable architectures, and production ML systems**
+* 👨‍💻 All of my projects are available at **https://github.com/drexvane**
+* 💬 Ask me about **Python, Flask, FastAPI, RAG, SQL, PostgreSQL, Data Analysis, OpenCV, Kafka, Apache Spark, and ML pipelines**
+* 🛠️ I enjoy building systems that combine **software engineering with practical AI and data-driven solutions**
+* ⚡ Fun fact: I enjoy turning complex problems and raw data into **useful, real-world applications**
+* 📫 How to reach me: **[kunal262005@gmail.com](mailto:kunal262005@gmail.com)**
 
 
 ## 🌐 Socials:
